@@ -1,7 +1,7 @@
 # GP-snapshot
 
-Download and open the Jupyter notebook file on Google Colab
+Open "Snapshot Steps" pdf file 
 
-Detailed steps to run the file is on "Snapshot Steps" pdf file
+Download and open the Jupyter notebook file on Google Colab (see more detailed steps on the pdf file)
 
 The result will be a csv file
